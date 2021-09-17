@@ -1,0 +1,21 @@
+{
+    "name": "leehoo-response-log/yii2-response-log",
+    "description": "For Response Log",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "LeeHoo",
+            "email": "lihuo1992@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "leehoo\\tools\\": ""
+        }
+    }
+}
